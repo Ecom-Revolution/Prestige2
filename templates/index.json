@@ -155,77 +155,111 @@
         "remove_vertical_spacing": true
       }
     },
-    "featured-collections": {
-      "type": "featured-collections",
+    "featured_product_meLhhK": {
+      "type": "featured-product",
       "blocks": {
-        "collection-1": {
-          "type": "collection",
+        "vendor_CtgtqK": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_gFkgRE": {
+          "type": "title",
           "settings": {
-            "collection": "nos-abayas",
-            "products_count": 4,
-            "title": "",
-            "link_url": "",
-            "link_text": "tous nos modèles"
-          }
-        }
-      },
-      "block_order": [
-        "collection-1"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": true,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "TAZIRI COUTURE"
-      }
-    },
-    "multiple-media-with-text": {
-      "type": "multiple-media-with-text",
-      "blocks": {
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/05506D62-FF7F-41B3-87EE-6EA08222B9F3.jpg",
-            "rotation": -1
+            "heading_tag": "h3"
           }
         },
-        "image-1": {
-          "type": "image",
+        "badges_Rh3Vwn": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_NDpXPp": {
+          "type": "price",
           "settings": {
-            "image": "shopify://shop_images/A6ADD7D5-EBE4-4E12-AD33-09ED68DC62AE.jpg",
-            "rotation": 0
+            "show_taxes_notice": false
           }
+        },
+        "rating_gyPcET": {
+          "type": "rating",
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
+          }
+        },
+        "payment_terms_kGfXdR": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator_MRqAHP": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_RXmYiR": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "variant_picker_LyRmhG": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_w6pNAK": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_tATMkn": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_JcgLt3": {
+          "type": "pickup_availability",
+          "settings": {}
         }
       },
       "block_order": [
-        "image-2",
-        "image-1"
+        "vendor_CtgtqK",
+        "title_gFkgRE",
+        "badges_Rh3Vwn",
+        "price_NDpXPp",
+        "rating_gyPcET",
+        "payment_terms_kGfXdR",
+        "separator_MRqAHP",
+        "description_RXmYiR",
+        "variant_picker_LyRmhG",
+        "quantity_selector_w6pNAK",
+        "buy_buttons_tATMkn",
+        "pickup_availability_JcgLt3"
       ],
       "settings": {
         "color_scheme": "",
-        "reveal_on_scroll": true,
+        "product": "abaya-x-caftan",
         "separate_section_with_border": true,
-        "media_position_desktop": "before_text",
-        "media_position_mobile": "before_text",
-        "media_layout": "overlap",
-        "media_alignment": "center",
-        "media_alignment_offset": 0,
-        "media_mobile_alignment_offset": 0,
-        "text_alignment": "center",
-        "subheading": "à PROPOS",
-        "title": "Démarquez-vous avec noS Abaya Signature",
-        "content": "<p>TAZIRI vous propose des abayas uniques dessinées et confectionnées à la main de qualité premium</p>",
-        "button_1_text": "",
-        "button_1_link": "",
-        "button_1_style": "solid",
-        "button_2_text": "",
-        "button_2_link": "",
-        "button_2_style": "solid"
+        "container_size": "lg",
+        "product_info_size": 45,
+        "center_basic_info": true,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "thumbnails",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "subheading": "TAZIRI COUTURE",
+        "title": "notre abaya signature",
+        "content": ""
       }
     }
   },
@@ -233,7 +267,6 @@
     "slideshow",
     "rich_text_hgR7KF",
     "image_with_text_PGkxXC",
-    "featured-collections",
-    "multiple-media-with-text"
+    "featured_product_meLhhK"
   ]
 }
