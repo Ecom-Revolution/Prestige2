@@ -17,7 +17,7 @@
         "banner_AbD9YJ": {
           "type": "banner",
           "settings": {
-            "item": "10% DE REMISE COMMANDE SUR VOTRE PREMIÈRE COMMANDE",
+            "item": "LE MAROC DANS CHAQUE DÉTAIL, L'UNICITÉ DANS CHAQUE CRÉATION",
             "item_lnk": ""
           }
         },
@@ -42,17 +42,17 @@
         "banner_7JkcPE"
       ],
       "settings": {
-        "text_color": "#fff",
+        "text_color": "#ffffff",
         "text_size": 14,
         "text_weight": "bold",
         "italic": false,
         "border_style": "solid",
-        "border_color": "#000",
+        "border_color": "#000000",
         "border_size": 0,
         "margin_top": 0,
         "margin_bottom": 0,
         "padding": 1,
-        "bg_color": "#000",
+        "bg_color": "#000000",
         "gradient_bg": "linear-gradient(90deg, #C6BEB1, #C6BEB1)",
         "duration": 300,
         "reverse": true,
