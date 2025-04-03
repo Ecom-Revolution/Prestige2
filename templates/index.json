@@ -135,7 +135,7 @@
             "style": "solid",
             "text": "découvrir mon univers",
             "url": "shopify://collections",
-            "background": "",
+            "background": "#c6beb1",
             "text_color": ""
           }
         }
@@ -146,7 +146,7 @@
         "button_ADtJVX"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": true,
         "image": "shopify://shop_images/3c88e8fc-189f-47fc-a130-4f1979f126e3.jpg",
         "reveal_on_scroll": true,
