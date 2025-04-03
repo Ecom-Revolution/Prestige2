@@ -195,12 +195,14 @@
         },
         "description_RXmYiR": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "collapse_content": true
           }
         },
         "variant_picker_LyRmhG": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "selector_style": "block",
@@ -213,15 +215,14 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "buy_buttons_tATMkn": {
-          "type": "buy_buttons",
+        "button_3PqTgn": {
+          "type": "button",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
+            "link": "shopify://products/abaya-x-caftan",
+            "text": "ACHETER",
+            "stretch": true,
+            "background": "",
+            "text_color": ""
           }
         },
         "pickup_availability_JcgLt3": {
@@ -240,7 +241,7 @@
         "description_RXmYiR",
         "variant_picker_LyRmhG",
         "quantity_selector_w6pNAK",
-        "buy_buttons_tATMkn",
+        "button_3PqTgn",
         "pickup_availability_JcgLt3"
       ],
       "settings": {
@@ -258,8 +259,8 @@
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "subheading": "TAZIRI COUTURE",
-        "title": "notre abaya signature",
-        "content": ""
+        "title": "démarquez vous avec notre abaya signature",
+        "content": "<p>Une magnifique Abaya imaginée pour toutes les occasions. Fait à la main par nos couturiers avec amour et précision.</p>"
       }
     }
   },
