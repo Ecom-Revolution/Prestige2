@@ -128,11 +128,22 @@
           "settings": {
             "content": "<p>Moi, c’est Nadia.<br/>Voilà bientôt 5 ans que je me suis voilée et au fil des années, j’ai adopté différents styles vestimentaires, mais aucun d’entre eux ne me correspondait réellement. Entre les abayas très simplistes que l’on retrouve partout et celles de basse qualité, j’avais de plus en plus de difficulté à apprécier ces tenues au quotidien. C’est alors qu’après plusieurs mois de travail, de doutes, d’essais, mais aussi de passion et de persévérance, j’ai décidé de créer mes propres créations.</p><p>Taziri, c’est le fruit de cette envie de faire mieux, de créer des pièces uniques où chaque détail compte. Le tissu, la coupe, la qualité et les finitions ont été minutieusement choisis et pensés pour sublimer chaque femme, car chaque femme mérite de se sentir unique et élégante. Mon objectif est de proposer des creations élégantes, classes et au design unique, fabriquées soigneusement à la main par nos couturiers et réalisées sur mesure pour vous.</p><p>Mon projet, c’est de vous offrir une mode qui allie modernité, confort et respect de vos valeurs. Rejoignez-moi dans cette aventure et laissez Taziri vous habiller de l’intérieur avec des créations qui vous ressemblent.</p><p>Merci de croire en ce projet et de le faire vivre à travers votre soutien et votre confiance.</p>"
           }
+        },
+        "button_ADtJVX": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "découvrir mon univers",
+            "url": "shopify://collections",
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
         "heading_ANmfrJ",
-        "richtext_gVbPKP"
+        "richtext_gVbPKP",
+        "button_ADtJVX"
       ],
       "settings": {
         "color_scheme": "",
