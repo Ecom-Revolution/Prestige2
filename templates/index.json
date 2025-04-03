@@ -155,112 +155,53 @@
         "remove_vertical_spacing": true
       }
     },
-    "featured_product_meLhhK": {
-      "type": "featured-product",
+    "image_with_text_yKbDxX": {
+      "type": "image-with-text",
       "blocks": {
-        "vendor_CtgtqK": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "title_gFkgRE": {
-          "type": "title",
+        "subheading_MpyY7k": {
+          "type": "subheading",
           "settings": {
-            "heading_tag": "h3"
+            "text": "TAZIRI COUTURE"
           }
         },
-        "badges_Rh3Vwn": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_NDpXPp": {
-          "type": "price",
+        "heading_dKr8VQ": {
+          "type": "heading",
           "settings": {
-            "show_taxes_notice": false
+            "text": "démarquez vous avec notre abaya signature",
+            "heading_tag": "h1"
           }
         },
-        "rating_gyPcET": {
-          "type": "rating",
+        "richtext_RpN8tx": {
+          "type": "richtext",
           "settings": {
-            "show_empty": true,
-            "rating_mode": "rating"
+            "content": "<p>Une magnifique Abaya imaginée pour toutes les occasions. Fait à la main par nos couturiers avec amour et précision.</p>"
           }
         },
-        "payment_terms_kGfXdR": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "separator_MRqAHP": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_RXmYiR": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "collapse_content": true
-          }
-        },
-        "variant_picker_LyRmhG": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "hide_sold_out_variants": false,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_w6pNAK": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "button_3PqTgn": {
+        "button_kxNNDP": {
           "type": "button",
           "settings": {
-            "link": "shopify://products/abaya-x-caftan",
-            "text": "ACHETER",
-            "stretch": true,
+            "style": "solid",
+            "text": "acheter",
+            "url": "shopify://products/abaya-x-caftan",
             "background": "",
             "text_color": ""
           }
-        },
-        "pickup_availability_JcgLt3": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
-        "vendor_CtgtqK",
-        "title_gFkgRE",
-        "badges_Rh3Vwn",
-        "price_NDpXPp",
-        "rating_gyPcET",
-        "payment_terms_kGfXdR",
-        "separator_MRqAHP",
-        "description_RXmYiR",
-        "variant_picker_LyRmhG",
-        "quantity_selector_w6pNAK",
-        "button_3PqTgn",
-        "pickup_availability_JcgLt3"
+        "subheading_MpyY7k",
+        "heading_dKr8VQ",
+        "richtext_RpN8tx",
+        "button_kxNNDP"
       ],
       "settings": {
         "color_scheme": "",
-        "product": "abaya-x-caftan",
         "separate_section_with_border": true,
-        "container_size": "lg",
-        "product_info_size": 45,
-        "center_basic_info": true,
-        "desktop_media_layout": "carousel_thumbnails_bottom",
-        "desktop_media_grid_gap": 30,
-        "mobile_controls": "thumbnails",
-        "enable_media_autoplay": false,
-        "enable_video_looping": true,
-        "enable_image_zoom": false,
-        "max_image_zoom_level": 3,
-        "subheading": "TAZIRI COUTURE",
-        "title": "démarquez vous avec notre abaya signature",
-        "content": "<p>Une magnifique Abaya imaginée pour toutes les occasions. Fait à la main par nos couturiers avec amour et précision.</p>"
+        "image": "shopify://shop_images/55019502-BA38-4216-A7A4-AC48246BC59E.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
       }
     }
   },
@@ -268,6 +209,6 @@
     "slideshow",
     "rich_text_hgR7KF",
     "image_with_text_PGkxXC",
-    "featured_product_meLhhK"
+    "image_with_text_yKbDxX"
   ]
 }
