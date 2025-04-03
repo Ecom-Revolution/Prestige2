@@ -17,11 +17,11 @@
         "icon-1": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
+            "icon": "picto-coupon",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Free delivery worldwide",
-            "content": "<p>Short content about your store</p>"
+            "title": "Luxe subtil",
+            "content": "<p>Coupes amples et matières premium</p>"
           }
         },
         "icon-2": {
@@ -30,28 +30,28 @@
             "icon": "picto-award-gift",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Satisfied or refunded",
-            "content": "<p>Short content about your store</p>"
+            "title": "Retours & échanges",
+            "content": "<p>14 jours pour changer d'avis</p>"
           }
         },
         "icon-3": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
+            "icon": "picto-delivery-truck",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Top-notch support",
-            "content": "<p>Short content about your store</p>"
+            "title": "Livraison offerte",
+            "content": "<p>Dès 150€</p>"
           }
         },
         "icon-4": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
+            "icon": "picto-shield",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Secure payments",
-            "content": "<p>Short content about your store</p>"
+            "title": "Paiements 100% sécurisés",
+            "content": "<p>Protocole SSL sur tout le site</p>"
           }
         }
       },
@@ -73,23 +73,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "title": "Newsletter",
-            "content": "<p>Sign up to our newsletter to receive exclusive offers.</p>",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
@@ -97,12 +80,29 @@
             "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
             "enable_follow_on_shop": true
           }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "main-menu",
+            "show_menu_title": true,
+            "menu_title": "navigation rapide"
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Newsletter",
+            "content": "<p>Inscrivez-vous pour découvrir les nouvelles collection en avant première, et des offres spéciales réservées aux abonnés.</p>",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
-        "newsletter",
+        "text",
         "links",
-        "text"
+        "newsletter"
       ],
       "settings": {
         "color_scheme": "scheme-3",

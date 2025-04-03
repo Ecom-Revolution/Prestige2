@@ -97,7 +97,7 @@
         "richtext_6TBXR9": {
           "type": "richtext",
           "settings": {
-            "content": "<p>un univers où chaque femme est célébrée dans sa singularité, un endroit où la mode ne se limite pas à des vêtements, mais devient une véritable extension de l’âme.</p>"
+            "content": "<p>Un univers où chaque femme est célébrée dans sa singularité, un endroit où la mode ne se limite pas à des vêtements, mais devient une véritable extension de l’âme.</p>"
           }
         }
       },
@@ -126,7 +126,7 @@
         "richtext_gVbPKP": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Moi, c’est Nadia.<br/>Voilà bientôt 5 ans que je me suis voilée et au fil des années, j’ai adopté différents styles vestimentaires, mais aucun d’entre eux ne me correspondait réellement. Entre les abayas très simplistes que l’on retrouve partout et celles de basse qualité, j’avais de plus en plus de difficulté à apprécier ces tenues au quotidien. C’est alors qu’après plusieurs mois de travail, de doutes, d’essais, mais aussi de passion et de persévérance, j’ai décidé de créer mes propres créations.</p><p>Taziri, c’est le fruit de cette envie de faire mieux, de créer des pièces uniques où chaque détail compte. Le tissu, la coupe, la qualité et les finitions ont été minutieusement choisis et pensés pour sublimer chaque femme, car chaque femme mérite de se sentir unique et élégante. Mon objectif est de proposer des creations élégantes, classes et au design unique, fabriquées soigneusement à la main par nos couturiers et réalisées sur mesure pour vous.</p><p>Mon projet, c’est de vous offrir une mode qui allie modernité, confort et respect de vos valeurs. Rejoignez-moi dans cette aventure et laissez Taziri vous habiller de l’intérieur avec des créations qui vous ressemblent.</p><p>Merci de croire en ce projet et de le faire vivre à travers votre soutien et votre confiance.</p>"
+            "content": "<p>Voilà bientôt 5 ans que je me suis voilée et au fil des années, j’ai adopté différents styles vestimentaires, mais aucun d’entre eux ne me correspondait réellement. Entre les abayas très simplistes que l’on retrouve partout et celles de basse qualité, j’avais de plus en plus de difficulté à apprécier ces tenues au quotidien. C’est alors qu’après plusieurs mois de travail, de doutes, d’essais, mais aussi de passion et de persévérance, j’ai décidé de créer mes propres créations.</p><p>Taziri, c’est le fruit de cette envie de faire mieux, de créer des pièces uniques où chaque détail compte. Le tissu, la coupe, la qualité et les finitions ont été minutieusement choisis et pensés pour sublimer chaque femme, car chaque femme mérite de se sentir unique et élégante. Mon objectif est de proposer des creations élégantes, classes et au design unique, fabriquées soigneusement à la main par nos couturiers et réalisées sur mesure pour vous.</p><p>Mon projet, c’est de vous offrir une mode qui allie modernité, confort et respect de vos valeurs. Rejoignez-moi dans cette aventure et laissez Taziri vous habiller de l’intérieur avec des créations qui vous ressemblent.</p><p>Merci de croire en ce projet et de le faire vivre à travers votre soutien et votre confiance.</p>"
           }
         },
         "button_ADtJVX": {
@@ -161,11 +161,11 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "products_count": 8,
+            "collection": "nos-abayas",
+            "products_count": 4,
             "title": "",
             "link_url": "",
-            "link_text": "View all"
+            "link_text": "tous nos modèles"
           }
         }
       },
@@ -176,259 +176,35 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "hide_product_information": false,
-        "stack_products": false,
+        "stack_products": true,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Featured collection"
-      }
-    },
-    "multi-column": {
-      "type": "multi-column",
-      "blocks": {
-        "column-1": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "column-2": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "column-3": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Column title",
-            "heading_tag": "h3",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-1",
-        "column-2",
-        "column-3"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "columns_per_row": 3,
-        "stack_on_mobile": false,
-        "overlap_image": false,
-        "content_alignment": "start",
-        "text_alignment": "start",
-        "spacing": "md",
-        "subheading": "About",
-        "title": "Multi-column",
-        "content": ""
-      }
-    },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-4": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-5": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-6": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection-1",
-        "collection-2",
-        "collection-3",
-        "collection-4",
-        "collection-5",
-        "collection-6"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": true,
-        "collections_per_row_mobile": "1",
-        "collections_per_row_desktop": 3,
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
-    },
-    "image-with-text-scroll": {
-      "type": "images-with-text-scroll",
-      "blocks": {
-        "item-1": {
-          "type": "image_with_text",
-          "settings": {
-            "subheading": "",
-            "title": "#1",
-            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
-        },
-        "item-2": {
-          "type": "image_with_text",
-          "settings": {
-            "subheading": "",
-            "title": "#2",
-            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
-        },
-        "item-3": {
-          "type": "image_with_text",
-          "settings": {
-            "subheading": "",
-            "title": "#3",
-            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "item-1",
-        "item-2",
-        "item-3"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "image_position": "start",
-        "text_alignment": "center",
-        "heading_tag": "h3",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "subheading": "TAZIRI COUTURE"
       }
     },
     "multiple-media-with-text": {
       "type": "multiple-media-with-text",
       "blocks": {
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "rotation": 0
-          }
-        },
         "image-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/05506D62-FF7F-41B3-87EE-6EA08222B9F3.jpg",
+            "rotation": -1
+          }
+        },
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/A6ADD7D5-EBE4-4E12-AD33-09ED68DC62AE.jpg",
             "rotation": 0
           }
         }
       },
       "block_order": [
-        "image-1",
-        "image-2"
+        "image-2",
+        "image-1"
       ],
       "settings": {
         "color_scheme": "",
@@ -441,82 +217,15 @@
         "media_alignment_offset": 0,
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
-        "subheading": "About",
-        "title": "Showcase your product",
-        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.</p>",
+        "subheading": "à PROPOS",
+        "title": "Démarquez-vous avec noS Abaya Signature",
+        "content": "<p>TAZIRI vous propose des abayas uniques dessinées et confectionnées à la main de qualité premium</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
         "button_2_text": "",
         "button_2_link": "",
         "button_2_style": "solid"
-      }
-    },
-    "newsletter": {
-      "type": "newsletter",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "subheading": "Keep me updated",
-        "title": "Newsletter",
-        "content": "<p>A short sentence describing what someone will receive by subscribing.</p>",
-        "button_text": "Subscribe",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "shop-the-look": {
-      "type": "shop-the-look",
-      "blocks": {
-        "look-1": {
-          "type": "look",
-          "settings": {
-            "hot_spots_background": "#ffffff",
-            "product_1": "",
-            "product_1_horizontal_position": 55,
-            "product_1_vertical_position": 30,
-            "product_2": "",
-            "product_2_horizontal_position": 25,
-            "product_2_vertical_position": 40,
-            "product_3": "",
-            "product_3_horizontal_position": 65,
-            "product_3_vertical_position": 60,
-            "product_4": "",
-            "product_4_horizontal_position": 85,
-            "product_4_vertical_position": 85
-          }
-        }
-      },
-      "block_order": [
-        "look-1"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "subheading": "",
-        "title": "Shop the look",
-        "content": "",
-        "popover_title": "Shop the look"
-      }
-    },
-    "blog-posts": {
-      "type": "blog-posts",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "blog": "",
-        "posts_count": 3,
-        "stack_on_mobile": false,
-        "show_category": true,
-        "show_date": false,
-        "show_excerpt": true,
-        "show_read_more": true,
-        "subheading": "",
-        "title": "Blog posts",
-        "content": "",
-        "button_link": "",
-        "button_text": "View all"
       }
     }
   },
@@ -525,12 +234,6 @@
     "rich_text_hgR7KF",
     "image_with_text_PGkxXC",
     "featured-collections",
-    "multi-column",
-    "collection-list",
-    "image-with-text-scroll",
-    "multiple-media-with-text",
-    "newsletter",
-    "shop-the-look",
-    "blog-posts"
+    "multiple-media-with-text"
   ]
 }
