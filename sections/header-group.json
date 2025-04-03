@@ -11,13 +11,61 @@
   "type": "header",
   "name": "Header group",
   "sections": {
+    "pcannoucement_Ghnbgf": {
+      "type": "pcannoucement",
+      "blocks": {
+        "banner_AbD9YJ": {
+          "type": "banner",
+          "settings": {
+            "item": "10% DE REMISE COMMANDE SUR VOTRE PREMIÈRE COMMANDE",
+            "item_lnk": ""
+          }
+        },
+        "banner_QYgRLj": {
+          "type": "banner",
+          "settings": {
+            "item": "LIVRAISON OFFERTE DÈS 150€",
+            "item_lnk": ""
+          }
+        },
+        "banner_7JkcPE": {
+          "type": "banner",
+          "settings": {
+            "item": "SATISFAIT OU REMBOURSÉ",
+            "item_lnk": ""
+          }
+        }
+      },
+      "block_order": [
+        "banner_AbD9YJ",
+        "banner_QYgRLj",
+        "banner_7JkcPE"
+      ],
+      "settings": {
+        "text_color": "#fff",
+        "text_size": 14,
+        "text_weight": "bold",
+        "italic": false,
+        "border_style": "solid",
+        "border_color": "#000",
+        "border_size": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding": 1,
+        "bg_color": "#000",
+        "gradient_bg": "linear-gradient(90deg, #C6BEB1, #C6BEB1)",
+        "duration": 300,
+        "reverse": true,
+        "font": "syne_n7"
+      }
+    },
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
         "message-1": {
           "type": "message",
           "settings": {
-            "text": "10% DE REMISE COMMANDE"
+            "text": "10% DE REMISE COMMANDE SUR VOTRE PREMIÈRE COMMANDE"
           }
         },
         "message_HD7X8C": {
@@ -38,6 +86,7 @@
         "message_HD7X8C",
         "message_4K9BTL"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-3",
         "enable_sticky": false,
@@ -76,6 +125,7 @@
     }
   },
   "order": [
+    "pcannoucement_Ghnbgf",
     "announcement-bar",
     "header"
   ]
