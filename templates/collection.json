@@ -13,8 +13,8 @@
       "type": "collection-banner",
       "settings": {
         "color_scheme": "",
-        "mobile_image": "shopify://shop_images/3c88e8fc-189f-47fc-a130-4f1979f126e3.jpg",
-        "image_size": "auto",
+        "image": "shopify://shop_images/3c88e8fc-189f-47fc-a130-4f1979f126e3.jpg",
+        "image_size": "xs",
         "allow_transparent_header": false,
         "reveal": true,
         "enable_parallax": true,
@@ -24,7 +24,7 @@
         "show_breadcrumb": true,
         "content_width": "xs",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 15
       }
     },
     "main": {

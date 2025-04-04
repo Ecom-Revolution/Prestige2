@@ -169,6 +169,23 @@
         "max_image_zoom_level": 3
       }
     },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "recommendations_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Taziri couture",
+        "title": "nos créations",
+        "content": ""
+      }
+    },
     "video_kfb3qh": {
       "type": "video",
       "blocks": {
@@ -214,27 +231,100 @@
         "text_color": "#ffffff"
       }
     },
-    "related-products": {
-      "type": "related-products",
+    "multiple_media_with_text_MQdFmh": {
+      "type": "multiple-media-with-text",
+      "blocks": {
+        "image_bV9Rfm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DD2848A1-064E-47B7-B59D-77C3B4456B6D.jpg",
+            "rotation": 0
+          }
+        },
+        "image_HPYp63": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/C7F3166D-087B-4FC2-A4DB-8D64361CF891.jpg",
+            "rotation": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_bV9Rfm",
+        "image_HPYp63"
+      ],
       "settings": {
         "color_scheme": "",
+        "reveal_on_scroll": true,
         "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "recommendations_count": 10,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
+        "media_position_desktop": "before_text",
+        "media_position_mobile": "before_text",
+        "media_layout": "overlap",
+        "media_alignment": "center",
+        "media_alignment_offset": 0,
+        "media_mobile_alignment_offset": 0,
+        "text_alignment": "center",
         "subheading": "Taziri couture",
-        "title": "nos créations",
-        "content": ""
+        "title": "<strong>Découvrez nos créations uniques</strong>",
+        "content": "<p>Chaque pièce, minutieusement confectionnée à la main, incarne le savoir-faire et la passion de nos équipes.</p>",
+        "button_1_text": "NOS CRÉATIONS",
+        "button_1_link": "shopify://collections/all",
+        "button_1_style": "solid",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_style": "solid"
+      }
+    },
+    "tabs_hqY4Hd": {
+      "type": "tabs",
+      "blocks": {
+        "tab_JzyDkb": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 1",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "page": "",
+            "open_on_mobile": false
+          }
+        },
+        "tab_P779Uh": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": "",
+            "open_on_mobile": false
+          }
+        },
+        "tab_6wF6Rp": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": "",
+            "open_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "tab_JzyDkb",
+        "tab_P779Uh",
+        "tab_6wF6Rp"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "subheading": "Subheading",
+        "title": "Heading",
+        "text_alignment": "center"
       }
     }
   },
   "order": [
     "main",
+    "related-products",
     "video_kfb3qh",
-    "related-products"
+    "multiple_media_with_text_MQdFmh",
+    "tabs_hqY4Hd"
   ]
 }
