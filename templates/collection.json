@@ -24,7 +24,7 @@
         "show_breadcrumb": true,
         "content_width": "xs",
         "overlay_color": "#000000",
-        "overlay_opacity": 15
+        "overlay_opacity": 30
       }
     },
     "main": {
