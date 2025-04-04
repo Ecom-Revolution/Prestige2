@@ -278,11 +278,11 @@
     "faq_7P6abC": {
       "type": "faq",
       "blocks": {
-        "question_9FYke4": {
+        "question_J4a99L": {
           "type": "question",
           "settings": {
-            "question": "COMMENT EFFECTUER VOTRE COMMANDE SUR TAZIRI ?",
-            "answer": "<p>Accédez à notre boutique en ligne, explorez nos produits, sélectionnez les articles qui vous plaisent, choisissez votre taille et ajoutez-les à votre panier.<br/>Si vous souhaitez une création sur mesure, sélectionnez l'option \"Sur mesure\" et envoyez-nous un message sur Instagram (@taziri.fr) avec vos mesures.<br/><br/><br/>Une fois votre sélection terminée, cliquez sur \"Confirmer la commande\" et suivez les étapes pour finaliser votre paiement.<br/></p>"
+            "question": "QUELS SONT LES DÉLAIS DE LIVRAISON ?",
+            "answer": "<p>Le délai de confection de votre commande varie entre 2 et 3 semaines. Une fois prête, la livraison prendra généralement entre 3 et 7 jours ouvrés, selon votre adresse et le mode de livraison sélectionné.</p>"
           }
         },
         "question_YXPJQz": {
@@ -292,11 +292,11 @@
             "answer": "<p>Une fois votre commande envoyée, vous recevrez un e-mail contenant un lien pour suivre votre colis en direct.</p>"
           }
         },
-        "question_J4a99L": {
+        "question_9FYke4": {
           "type": "question",
           "settings": {
-            "question": "QUELS SONT LES DÉLAIS DE LIVRAISON ?",
-            "answer": "<p>Le délai de confection de votre commande varie entre 2 et 3 semaines. Une fois prête, la livraison prendra généralement entre 3 et 7 jours ouvrés, selon votre adresse et le mode de livraison sélectionné.</p>"
+            "question": "PUIS-JE OBTENIR UN REMBOURSEMENT ?",
+            "answer": "<p>Nous n'offrons pas de remboursement, car chaque pièce est confectionnée à la demande et certaines sont réalisées sur mesure selon les spécifications du client. Nous vous encourageons à bien vérifier vos choix de taille et de design avant de finaliser votre commande. En cas de doute, n'hésitez pas à contacter notre service client pour toute question ou conseil.<br/><br/><br/></p>"
           }
         },
         "question_WCmhFL": {
@@ -322,9 +322,9 @@
         }
       },
       "block_order": [
-        "question_9FYke4",
-        "question_YXPJQz",
         "question_J4a99L",
+        "question_YXPJQz",
+        "question_9FYke4",
         "question_WCmhFL",
         "question_GzTpTM",
         "question_yNpVrn"
