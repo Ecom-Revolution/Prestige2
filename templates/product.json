@@ -303,7 +303,7 @@
           "type": "question",
           "settings": {
             "question": "COMMENT CHOISIR MA TAILLE ?",
-            "answer": "<p>Nous mettons à votre disposition un tableau des tailles précis pour chaque produit. En cas de doute, notre équipe de support est à votre écoute pour vous fournir des recommandations sur mesure.<br/><br/></p>"
+            "answer": "<p>Nous mettons à votre disposition un tableau des tailles précis pour chaque produit. <br/>Si vous souhaitez une création sur mesure, sélectionnez l'option \"Sur mesure\" et envoyez-nous un message sur Instagram (@taziri.fr) avec vos mesures.</p><p>En cas de doute, notre équipe de support est à votre écoute pour vous fournir des recommandations sur mesure.<br/><br/></p>"
           }
         },
         "question_GzTpTM": {
