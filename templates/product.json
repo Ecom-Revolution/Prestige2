@@ -28,19 +28,44 @@
             "show_taxes_notice": false
           }
         },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
         "separator": {
           "type": "separator",
           "settings": {}
         },
-        "description": {
-          "type": "description",
+        "feature_with_icon_AUkpy7": {
+          "type": "feature_with_icon",
           "settings": {
-            "collapse_content": false,
-            "show_below_gallery": false
+            "text": "Qualité, confort et élégances garantis",
+            "link": "",
+            "icon": "picto-coupon",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        },
+        "feature_with_icon_KzwAhw": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "Paiements 100% sécurisés",
+            "link": "",
+            "icon": "picto-shield",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        },
+        "feature_with_icon_DMeHCH": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "Livraison offerte dès 150,00€ d'achat",
+            "link": "",
+            "icon": "picto-box",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
           }
         },
         "variant_picker": {
@@ -68,14 +93,48 @@
             "payment_button_text_color": ""
           }
         },
-        "complementary_products": {
-          "type": "complementary_products",
+        "description": {
+          "type": "description",
           "settings": {
-            "title": "Pairs well with",
-            "products_count": 2,
-            "show_below_gallery": true,
-            "stack_products": false,
-            "show_quick_buy": true
+            "collapse_content": true,
+            "show_below_gallery": false
+          }
+        },
+        "accordion_EdwxMa": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "picto-delivery-truck",
+            "title": "Expédition et livraison",
+            "content": "<p>Nous expédions en France, en Angleterre et vers de nombreux pays en Europe: Belgique, Allemagne, Luxembourg, Pays-Bas, Espagne ...</p><p>Une fois la commande expédiée, vous recevrez un mail avec votre numéro de suivi.</p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_ERATVC": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "picto-leaf",
+            "title": "Conseils d'entretien",
+            "content": "<p>Pour préserver la beauté et la qualité de vos abayas et kimonos, il est essentiel de les entretenir avec soin. Voici nos recommandations :<br/></p><p><em>Lavage:</em></p><ul><li>Lavage à la main recommandé : Utilisez de l’eau froide ou tiède avec un détergent doux pour éviter d’endommager les tissus délicats.<br/></li></ul><p><em>Séchage:</em></p><ul><li>Pas de sèche-linge : Le sèche-linge peut rétrécir ou abîmer les tissus.</li><li>Étendez vos vêtements à l’air libre sur un cintre ou une surface plate pour préserver leur forme.</li><li>Évitez une exposition prolongée au soleil, qui peut ternir les couleurs.</li></ul><p><em>Repassage:</em></p><ul><li>Repassez vos abayas et kimonos à l’envers pour protéger le tissu et les éventuelles broderies.</li><li>Réglez votre fer sur une température basse ou moyenne (selon le tissu).<br/></li></ul><p><em>Précautions supplémentaires</em></p><ul><li>Évitez les produits chimiques agressifs comme l’eau de javel, qui peuvent endommager les tissus.</li><li>Pour les articles ornés de broderies ou de perles, privilégiez un nettoyage professionnel ou très délicat à la main.</li><li>Éloignez vos vêtements des objets pointus ou rugueux qui pourraient tirer les fils.<br/></li></ul><p>En suivant ces conseils, vos abayas et kimonos resteront élégants et en parfait état au fil du temps.</p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "offers_ezbgfA": {
+          "type": "offers",
+          "settings": {
+            "stack_offers": true,
+            "offer_1_title": "<strong>OFFRE DE BIENVENUE</strong>",
+            "offer_1_content": "",
+            "offer_2_title": "",
+            "offer_2_content": "<p>Bénéficiez de 10 % de réduction sur votre première commande</p>",
+            "offer_3_title": "",
+            "offer_3_content": "",
+            "background": "#c6beb1",
+            "text_color": "#ffffff",
+            "border_color": ""
           }
         }
       },
@@ -83,13 +142,17 @@
         "vendor",
         "title",
         "price",
-        "payment_terms",
         "separator",
-        "description",
+        "feature_with_icon_AUkpy7",
+        "feature_with_icon_KzwAhw",
+        "feature_with_icon_DMeHCH",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "complementary_products"
+        "description",
+        "accordion_EdwxMa",
+        "accordion_ERATVC",
+        "offers_ezbgfA"
       ],
       "settings": {
         "color_scheme": "",
@@ -106,6 +169,51 @@
         "max_image_zoom_level": 3
       }
     },
+    "video_kfb3qh": {
+      "type": "video",
+      "blocks": {
+        "play_aQG98c": {
+          "type": "play",
+          "settings": {
+            "icon_color": "#ffffff"
+          }
+        },
+        "subheading_wJPbQk": {
+          "type": "subheading",
+          "settings": {
+            "text": "les matériaux"
+          }
+        },
+        "heading_GHWRNr": {
+          "type": "heading",
+          "settings": {
+            "text": "taziri couture",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_QUNXkn": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Nos matières premières sont sélectionnées avec soin auprès de fournisseurs reconnus, garantissant qualité, confort et élégance à chaque création.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "play_aQG98c",
+        "subheading_wJPbQk",
+        "heading_GHWRNr",
+        "richtext_QUNXkn"
+      ],
+      "settings": {
+        "autoplay": true,
+        "show_controls": false,
+        "video_size": "md",
+        "video": "shopify://files/videos/e4446a42-ff35-4e54-aa1b-a992542d772a.mp4",
+        "mobile_video": "shopify://files/videos/e4446a42-ff35-4e54-aa1b-a992542d772a.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -118,14 +226,15 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "",
-        "title": "Related products",
+        "subheading": "Taziri couture",
+        "title": "nos créations",
         "content": ""
       }
     }
   },
   "order": [
     "main",
+    "video_kfb3qh",
     "related-products"
   ]
 }
