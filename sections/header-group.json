@@ -14,6 +14,14 @@
     "pcannoucement_Ghnbgf": {
       "type": "pcannoucement",
       "blocks": {
+        "banner_3C3tNA": {
+          "type": "banner",
+          "disabled": true,
+          "settings": {
+            "item": "FREE SHIPPING",
+            "item_lnk": ""
+          }
+        },
         "banner_AbD9YJ": {
           "type": "banner",
           "settings": {
@@ -30,6 +38,7 @@
         },
         "banner_7JkcPE": {
           "type": "banner",
+          "disabled": true,
           "settings": {
             "item": "SATISFAIT OU REMBOURSÉ",
             "item_lnk": ""
@@ -37,6 +46,7 @@
         }
       },
       "block_order": [
+        "banner_3C3tNA",
         "banner_AbD9YJ",
         "banner_QYgRLj",
         "banner_7JkcPE"
@@ -64,6 +74,7 @@
       "blocks": {
         "message_HD7X8C": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "<strong>Livraison offerte à partir de 150€</strong>"
           }
@@ -72,7 +83,6 @@
       "block_order": [
         "message_HD7X8C"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "scheme-3",
         "enable_sticky": false,
