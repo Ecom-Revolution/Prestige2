@@ -126,10 +126,10 @@
           "type": "offers",
           "settings": {
             "stack_offers": true,
-            "offer_1_title": "<strong>OFFRE DE BIENVENUE</strong>",
+            "offer_1_title": "<strong>OFFRE</strong>",
             "offer_1_content": "",
             "offer_2_title": "",
-            "offer_2_content": "<p>Bénéficiez de 10 % de réduction sur votre première commande</p>",
+            "offer_2_content": "<p>Bénéficiez d'un tote bag offert à partir de 150€ d'achat</p>",
             "offer_3_title": "",
             "offer_3_content": "",
             "background": "#c6beb1",
