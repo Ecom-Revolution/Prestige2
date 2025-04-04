@@ -289,7 +289,7 @@
           "type": "question",
           "settings": {
             "question": "COMMENT SUIVRE MA COMMANDE ?",
-            "answer": "<p>Une fois votre commande expédiée, vous recevrez un e-mail avec un lien de suivi pour suivre votre colis en temps réel.</p>"
+            "answer": "<p>Une fois votre commande envoyée, vous recevrez un e-mail contenant un lien pour suivre votre colis en direct.</p>"
           }
         },
         "question_J4a99L": {
