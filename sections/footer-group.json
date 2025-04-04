@@ -73,14 +73,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
-          }
-        },
         "links": {
           "type": "links",
           "settings": {
@@ -100,7 +92,6 @@
         }
       },
       "block_order": [
-        "text",
         "links",
         "newsletter"
       ],
