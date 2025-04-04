@@ -275,48 +275,67 @@
         "button_2_style": "solid"
       }
     },
-    "tabs_hqY4Hd": {
-      "type": "tabs",
+    "faq_7P6abC": {
+      "type": "faq",
       "blocks": {
-        "tab_JzyDkb": {
-          "type": "tab",
+        "question_9FYke4": {
+          "type": "question",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
-            "page": "",
-            "open_on_mobile": false
+            "question": "COMMENT PASSER COMMANDE SUR TAZIRI CRÉATION ?",
+            "answer": "<p>Rendez-vous sur notre boutique en ligne, sélectionnez vos articles préférés, choisissez votre taille et ajoutez-les au panier.</p><p>Une fois prête, cliquez sur “Valider la commande” et suivez les instructions pour le paiement.</p>"
           }
         },
-        "tab_P779Uh": {
-          "type": "tab",
+        "question_YXPJQz": {
+          "type": "question",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
-            "page": "",
-            "open_on_mobile": false
+            "question": "COMMENT SUIVRE MA COMMANDE ?",
+            "answer": "<p>Une fois votre commande expédiée, vous recevrez un e-mail avec un lien de suivi pour suivre votre colis en temps réel.</p>"
           }
         },
-        "tab_6wF6Rp": {
-          "type": "tab",
+        "question_J4a99L": {
+          "type": "question",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
-            "page": "",
-            "open_on_mobile": false
+            "question": "QUELS SONT LES DÉLAIS DE LIVRAISON ?",
+            "answer": "<p>Nous livrons en moyenne sous 3 à 7 jours ouvrés. Les délais peuvent varier selon votre localisation et la méthode de livraison choisie.</p>"
+          }
+        },
+        "question_WCmhFL": {
+          "type": "question",
+          "settings": {
+            "question": "COMMENT CHOISIR MA TAILLE ?",
+            "answer": "<p>Nous mettons à votre disposition un guide des tailles détaillé pour chaque article. Si vous avez des doutes, contactez notre service client pour obtenir des conseils personnalisés.</p>"
+          }
+        },
+        "question_GzTpTM": {
+          "type": "question",
+          "settings": {
+            "question": "QUELS MATÉRIAUX UTILISEZ-VOUS ?",
+            "answer": "<p>Nous sélectionnons des tissus premium pour garantir confort et durabilité. Chaque produit est conçu pour respecter notre engagement envers la qualité et l’élégance.</p>"
+          }
+        },
+        "question_yNpVrn": {
+          "type": "question",
+          "settings": {
+            "question": "VOS VÊTEMENTS SONT-ILS ADAPTÉS À TOUTES LES MORPHOLOGIES ?",
+            "answer": "<p>Oui, nos coupes sont pensées pour offrir un style élégant et confortable à toutes les femmes, en mettant en valeur leur féminité tout en respectant la modestie.</p>"
           }
         }
       },
       "block_order": [
-        "tab_JzyDkb",
-        "tab_P779Uh",
-        "tab_6wF6Rp"
+        "question_9FYke4",
+        "question_YXPJQz",
+        "question_J4a99L",
+        "question_WCmhFL",
+        "question_GzTpTM",
+        "question_yNpVrn"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "",
         "separate_section_with_border": true,
-        "subheading": "Subheading",
-        "title": "Heading",
-        "text_alignment": "center"
+        "show_categories": false,
+        "subheading": "",
+        "title": "faq",
+        "content": "<p>Retrouvez les réponses aux questions les plus fréquentes.</p>"
       }
     }
   },
@@ -325,6 +344,6 @@
     "related-products",
     "video_kfb3qh",
     "multiple_media_with_text_MQdFmh",
-    "tabs_hqY4Hd"
+    "faq_7P6abC"
   ]
 }
