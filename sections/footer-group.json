@@ -24,16 +24,6 @@
             "content": "<p>Coupes amples et matières premium</p>"
           }
         },
-        "icon-2": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-award-gift",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Retours & échanges",
-            "content": "<p>14 jours pour changer d'avis</p>"
-          }
-        },
         "icon-3": {
           "type": "item",
           "settings": {
@@ -57,7 +47,6 @@
       },
       "block_order": [
         "icon-1",
-        "icon-2",
         "icon-3",
         "icon-4"
       ],
