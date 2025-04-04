@@ -15,21 +15,21 @@
         "video_Pq7BPh": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Taziri.mp4",
-            "mobile_video": "shopify://files/videos/Taziri.mp4",
+            "video": "shopify://files/videos/VIDEO-2025-04-04-00-13-29.mp4",
+            "mobile_video": "shopify://files/videos/VIDEO-2025-04-04-00-13-29.mp4",
             "allow_sound": true,
             "subheading": "minutieusement confectionnée à la main",
             "title": "<strong>Découvrez nos créations uniques</strong>",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
-            "button_1_text": "DÉCOUVREZ NOS ABAYAS",
-            "button_1_link": "shopify://collections",
+            "button_1_text": "NOTRE ABAYA SIGNATURE",
+            "button_1_link": "shopify://products/abaya-x-caftan",
             "button_1_style": "link",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
-            "button_2_text": "NOTRE MARQUE",
-            "button_2_link": "shopify://pages/notre-marque",
+            "button_2_text": "TOUS NOS MODÈLES",
+            "button_2_link": "shopify://collections/nos-abayas",
             "button_2_style": "link",
             "button_2_background": "#ffffff",
             "button_2_text_color": "#000000",
@@ -43,7 +43,8 @@
         "video_i88pbm": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/e4446a42-ff35-4e54-aa1b-a992542d772a.mp4",
+            "video": "shopify://files/videos/1acb2fd9a37d4547a2904b7caa376343.mov",
+            "mobile_video": "shopify://files/videos/1acb2fd9a37d4547a2904b7caa376343.mov",
             "allow_sound": true,
             "subheading": "minutieusement confectionnée à la main",
             "title": "<strong>Découvrez nos créations uniques</strong>",
@@ -134,7 +135,7 @@
           "settings": {
             "style": "solid",
             "text": "découvrir mon univers",
-            "url": "shopify://collections",
+            "url": "shopify://collections/nos-abayas",
             "background": "#c6beb1",
             "text_color": ""
           }
