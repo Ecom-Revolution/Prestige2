@@ -73,18 +73,11 @@
           "settings": {
             "text": "<strong>Livraison offerte à partir de 150€</strong>"
           }
-        },
-        "message_4K9BTL": {
-          "type": "message",
-          "settings": {
-            "text": "<strong>GARANTIE SATISFAIT OU REMBOURSé :</strong> 14 jours"
-          }
         }
       },
       "block_order": [
         "message-1",
-        "message_HD7X8C",
-        "message_4K9BTL"
+        "message_HD7X8C"
       ],
       "disabled": true,
       "settings": {
