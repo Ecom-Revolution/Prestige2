@@ -282,7 +282,7 @@
           "type": "question",
           "settings": {
             "question": "QUELS SONT LES DÉLAIS DE LIVRAISON ?",
-            "answer": "<p>Le délai de confection de votre commande varie entre 2 et 3 semaines. Une fois prête, la livraison prendra généralement entre 3 et 7 jours ouvrés, selon votre adresse et le mode de livraison sélectionné.</p>"
+            "answer": "<p>Le délai de confection de votre commande varie entre 2 et 3 semaines. Cependant, ce délai peut être rallongé en fonction du nombre de commandes en cours. Une fois prête, la livraison prendra généralement entre 3 et 7 jours ouvrés, selon votre adresse et le mode de livraison sélectionné.</p>"
           }
         },
         "question_YXPJQz": {
@@ -306,18 +306,18 @@
             "answer": "<p>Nous mettons à votre disposition un tableau des tailles précis pour chaque produit. <br/>Si vous souhaitez une création sur mesure, sélectionnez l'option \"Sur mesure\" et envoyez-nous un message sur Instagram (@taziri.fr) avec vos mesures.</p><p>En cas de doute, notre équipe de support est à votre écoute pour vous fournir des recommandations sur mesure.<br/><br/></p>"
           }
         },
-        "question_GzTpTM": {
-          "type": "question",
-          "settings": {
-            "question": "QUELS MATÉRIAUX UTILISEZ-VOUS ?",
-            "answer": "<p>Nous mettons un point d'honneur à choisir des matériaux qui assurent la qualité et le confort de nos créations.<br/><br/></p>"
-          }
-        },
         "question_yNpVrn": {
           "type": "question",
           "settings": {
             "question": "VOS VÊTEMENTS CONVIENNENT-ILS À TOUTES LES SILHOUETTES ?",
             "answer": "<p>Oui, nos designs sont réalisés pour flatter toutes les morphologies, assurant à chaque femme confort et style, tout en respectant l'équilibre entre féminité et modestie.</p>"
+          }
+        },
+        "question_GzTpTM": {
+          "type": "question",
+          "settings": {
+            "question": "QUELS MATÉRIAUX UTILISEZ-VOUS ?",
+            "answer": "<p>Nous mettons un point d'honneur à choisir des matériaux qui assurent la qualité et le confort de nos créations.<br/><br/></p>"
           }
         }
       },
@@ -326,8 +326,8 @@
         "question_YXPJQz",
         "question_9FYke4",
         "question_WCmhFL",
-        "question_GzTpTM",
-        "question_yNpVrn"
+        "question_yNpVrn",
+        "question_GzTpTM"
       ],
       "settings": {
         "color_scheme": "",
